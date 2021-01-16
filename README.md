@@ -80,7 +80,7 @@ Fluffy/Velvety/Soft/Cute Things | Dairy
 [![Github stats](https://github-readme-stats.vercel.app/api?username=jadedragon21&count_private=true&show_icons=true&theme=bear)](https://github.com/jadedragon21/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadedragon21&layout=compact&theme=bear)](https://github.com/jadedragon21/github-readme-stats)
 
 
-[![bongocat](https://emoji.gg/assets/emoji/5180_bongocat.gif)](https://emoji.gg/emoji/5180_bongocat)[![partyblobcatParrot](https://emoji.gg/assets/emoji/2153_partyblobcatparrot.gif)](https://emoji.gg/emoji/2153_partyblobcatparrot)<img align="center" src="resources/pusheenunicorn.gif" />[![partyblobcatParrot](https://emoji.gg/assets/emoji/2153_partyblobcatparrot.gif)](https://emoji.gg/emoji/2153_partyblobcatparrot)[![bongocat](https://emoji.gg/assets/emoji/5180_bongocat.gif)](https://emoji.gg/emoji/5180_bongocat)
+[![partyblobcatParrot](https://emoji.gg/assets/emoji/2153_partyblobcatparrot.gif)](https://emoji.gg/emoji/2153_partyblobcatparrot)<img align="center" src="resources/pusheenunicorn.gif" />[![partyblobcatParrot](https://emoji.gg/assets/emoji/2153_partyblobcatparrot.gif)](https://emoji.gg/emoji/2153_partyblobcatparrot)
 
 
 
