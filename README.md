@@ -1,4 +1,8 @@
-[![bongocat](https://emoji.gg/assets/emoji/5180_bongocat.gif)](https://emoji.gg/emoji/5180_bongocat)[![partyblobcatParrot](https://emoji.gg/assets/emoji/2153_partyblobcatparrot.gif)](https://emoji.gg/emoji/2153_partyblobcatparrot)![PusheenNet](resources/pusheennet.gif)[![partyblobcatParrot](https://emoji.gg/assets/emoji/2153_partyblobcatparrot.gif)](https://emoji.gg/emoji/2153_partyblobcatparrot)[![bongocat](https://emoji.gg/assets/emoji/5180_bongocat.gif)](https://emoji.gg/emoji/5180_bongocat)
+[![bongocat](https://emoji.gg/assets/emoji/5180_bongocat.gif)](https://emoji.gg/emoji/5180_bongocat)
+<a href="https://emoji.gg/emoji/5753_kittypaw"><img src="https://emoji.gg/assets/emoji/5753_kittypaw.gif" width="64px" height="64px" alt="kittypaw"></a>
+![PusheenNet](resources/pusheennet.gif)
+<a href="https://emoji.gg/emoji/5753_kittypaw"><img src="https://emoji.gg/assets/emoji/5753_kittypaw.gif" width="64px" height="64px" alt="kittypaw"></a>
+[![bongocat](https://emoji.gg/assets/emoji/5180_bongocat.gif)](https://emoji.gg/emoji/5180_bongocat)
 
 
 # Hey 👋, This is Sarah Hoffman. 
