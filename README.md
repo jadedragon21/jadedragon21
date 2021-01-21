@@ -11,8 +11,8 @@
 ## I'm currently attending the TTS Full-Stack Web Developer [Bootcamp](https://codeshv.com/), which will be completed in March 2021.
 
 
-- 🔭 I’m currently working on this wonderful intracacies of this self readme and maybe a bit more work on my Java Calculator...
-- 🌱 I’m currently learning Java: OOP 3 - Interfaces, Method Overriding next week.
+- 🔭 I’m currently working on the wonderful intracacies of this self readme and maybe a bit more work on my Java Calculator &Library Hash Assignment...
+- 🌱 I’m currently learning Java: Binary Trees & Heaps.
 - 👯 I’m looking to collaborate on future projects with my fellow students.
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: She/Her
@@ -29,7 +29,7 @@
 
 ## Now I am not claiming to be stupendously proficient in the below tech. However, I am still in the middle of studying and learning the basics.
 ## With alot more practice and training who knows where I'll be in the future?? Maybe building some otome game for an app on Android devices.
-## I could write a dictionary for coding beginners or even test games and write code for front end game development.
+## I could even write a dictionary for coding beginners or even test (QA) games and write code for front end game development.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -65,9 +65,9 @@ Fluffy/Velvety/Soft/Cute Things | Dairy
 
 ### Story of Seasons, Animal Crossing, Zelda: Breath of the Wild, and I'm looking forward to playing Rune Factory 5 & the new Story of Seasons:POOT and the Harvest Moon: One World....
 
-### SOS and HM both have their weak points and strengths. SOS is better game mechanics and overall play styles and well the character sprites in Harvest Moon look better. 
+### SOS and HM both have their weak points and strengths. SOS has better game mechanics and overall play styles and well the character sprites in Harvest Moon look better in my opinion. 
 
-### I will say Rune Factory has the best of both worlds art, music, game, mechanics. I enjoyed playing the whole series.
+### I will say Rune Factory has the best of both worlds in art, music, & game mechanics. I enjoyed playing the whole series.
 
 ### I really enjoying playing otome games as well as pc games such as Ark Survival Evolved, Wurm Unlimited, Wurm Online, Eve Online, 7 Days to Die, etc. <---These are just the ones I spend the most time playing, when I have free time.
  
@@ -78,7 +78,7 @@ Fluffy/Velvety/Soft/Cute Things | Dairy
 
 # _**Goals for the near Future**_
 
-### I want to graduate this class with great grades and gain more confidence in myself to interact with people again. I'm a pretty laid back chill person. I try to get things done in a timely manner and am organized. I'm a bit OCD and I get anxious around people at first but once I know who you are I can get along great with "most" people. I've grown up around tech most of my life. My dad is a computer engineer he can do most things through hands on experience and after I finish this course I plan on "apprenticing" to him so that I can gain some of his knowledge and get into a new mind set for the future.
+### I want to graduate this class with great grades and gain more confidence in myself to interact with people again. I'm a pretty laid back chill person. I try to get things done in a timely manner and am organized when it is crunch time or at work. I'm a bit OCD and I get anxious around people at first but once I know who you are I can get along great with "most" people. I've grown up around tech most of my life. My dad is a computer engineer he can do most things through hands on experience and after I finish this course I plan on "apprenticing" to him so that I can gain some of his knowledge and get into a new mind set for the future. Tech and programming are going to be around a long time and I plan to jump on this while its hot.
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=jadedragon21&count_private=true&show_icons=true&theme=bear)](https://github.com/jadedragon21/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadedragon21&layout=compact&theme=bear)](https://github.com/jadedragon21/github-readme-stats)
