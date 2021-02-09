@@ -11,8 +11,8 @@
 ## I'm currently attending the TTS Full-Stack Web Developer [Bootcamp](https://codeshv.com/), which will be completed in March 2021.
 
 
-- 🔭 I’m currently working on the wonderful intracacies of this self readme and maybe a bit more work on my Java Calculator &Library Hash Assignment...
-- 🌱 I’m currently learning Java: Binary Trees & Heaps.
+- 🔭 I’m currently working on the wonderful intracacies of this self readme and maybe a bit more work on my Lab Assignments for the week....
+- 🌱 I’m currently learning OAuth 2.0
 - 👯 I’m looking to collaborate on future projects with my fellow students.
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: She/Her
@@ -72,13 +72,13 @@ Fluffy/Velvety/Soft/Cute Things | Dairy
 ### I really enjoying playing otome games as well as pc games such as Ark Survival Evolved, Wurm Unlimited, Wurm Online, Eve Online, 7 Days to Die, etc. <---These are just the ones I spend the most time playing, when I have free time.
  
 
-## *Placeholder for resume Link*
+## *Placeholder for resume Link* -->Currently in the process of rewriting one for a career change.
 
-## *Placeholder for professional About me Section*
+## *Placeholder for professional About me Section* Getting pointers.
 
 # _**Goals for the near Future**_
 
-### I want to graduate this class with great grades and gain more confidence in myself to interact with people again. I'm a pretty laid back chill person. I try to get things done in a timely manner and am organized when it is crunch time or at work. I'm a bit OCD and I get anxious around people at first but once I know who you are I can get along great with "most" people. I've grown up around tech most of my life. My dad is a computer engineer he can do most things through hands on experience and after I finish this course I plan on "apprenticing" to him so that I can gain some of his knowledge and get into a new mind set for the future. Tech and programming are going to be around a long time and I plan to jump on this while its hot.
+### I want to graduate this class with great grades and gain more confidence in myself to interact with people again. I'm a pretty laid back chill person. I try to get things done in a timely manner and am very organized when it is crunch time or at work. I'm a bit OCD and I get anxious around people at first but once I know who you are I can get along great with "most" people. I've worked in retail alot and have gained many different perspectives, new skills, team building skills and Im very excited to learn coding! I've grown up around tech most of my life. My dad is a computer engineer he can do most things through hands on experience and after I finish this course I plan on "apprenticing" to him so that I can gain some of his knowledge. I am getting into a new mind set for the future. Logic isn't my strong suit and I'm slow at math sometimes. I know my strengths are in the creative/idea/reverse engineering depts.  Tech and programming are going to be around a long time and I plan to jump on this chance before it slips out of my grasp.
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=jadedragon21&count_private=true&show_icons=true&theme=bear)](https://github.com/jadedragon21/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadedragon21&layout=compact&theme=bear)](https://github.com/jadedragon21/github-readme-stats)
