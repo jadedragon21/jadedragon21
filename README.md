@@ -29,7 +29,7 @@
 
 ## Now I am not claiming to be stupendously proficient in the below tech. However, I am still in the middle of studying and learning the basics.
 ## With alot more practice and training who knows where I'll be in the future?? Maybe building some otome game for an app on Android devices.
-## I could even write a dictionary for coding beginners or even test (QA) games and write code for front end game development.
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -53,11 +53,11 @@
 
 # About Me Section: Personal not Pro
 
-Things I Enjoy: | Things that I'm allergic to:
---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------
-Reading Manga & Web Novels | Everything except mold.
-Older console RPG, Puzzle, Strategy Games | Cat/Animal Saliva
-Fluffy/Velvety/Soft/Cute Things | Dairy
+Things I Enjoy: | 
+--------------------------------------------------------------------------------------------------|
+Reading Manga & Web Novels | 
+Older console RPG, Puzzle, Strategy Games | 
+Fluffy/Velvety/Soft/Cute Things | 
 
 ### Some games that I enjoy playing are older console/pc games like Legend of Mana, Suikoden 3, Saga Frontier 2, Wild Arms series, Early Ps1-Ps3 console Tales series, Diablo/Starcraft/Warcraft, King's Quest series, Total Annihilation, Mech Warrior.
 
