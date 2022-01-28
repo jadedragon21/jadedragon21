@@ -8,12 +8,13 @@
 # Hey 👋, This is Sarah Hoffman. 
 # I am a training in the basics to become a full-stack web developer!
 
-## I'm currently attending the TTS Full-Stack Web Developer [Bootcamp](https://codeshv.com/), which will be completed in March 2021.
+## I finished attending the TTS Full-Stack Web Developer [Bootcamp](https://codeshv.com/), which was completed in March 2021.
+## Now I am on a medical hiatus but using this time to write out project ideas, doing refresher courses on udemy & scrimba, and trying to learn new programming languages.
 
 
-- 🔭 I’m currently working on the wonderful intracacies of this self readme and maybe a bit more work on my Lab Assignments for the week....
-- 🌱 I’m currently learning OAuth 2.0
-- 👯 I’m looking to collaborate on future projects with my fellow students.
+- 🔭 I’m currently working on the wonderful intracacies of this self readme and maybe a bit more of refresh projects to get back up to speed.... I am currently turtling at the moment because of several different carpal/ulnar nerve issues
+- 🌱 I’m currently learning React again from scratch.
+- 👯 I’m looking to collaborate on future projects with my fellow students at a later date.
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:
@@ -28,7 +29,7 @@
 # ⚡ Technologies
 
 ## Now I am not claiming to be stupendously proficient in the below tech. However, I am still in the middle of studying and learning the basics.
-## With alot more practice and training who knows where I'll be in the future?? Maybe building some otome game for an app on Android devices.
+## With alot more practice and training who knows where I'll be in the future?? Maybe building some otome game for an app on Android devices or some efficient app that helps moms in their day to day struggle to not lose their minds in the daily grind. ;)
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
